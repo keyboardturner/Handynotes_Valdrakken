@@ -10,3 +10,5 @@ Various points of interest within Valdrakken
 <p>&nbsp;</p>
 <p>You may need to manually put this in your beta folder:</p>
 <pre class="codeStyle">World of Warcraft\_beta_\Interface\AddOns</pre>
+
+A link to my discord for addon projects and other things can be found [here](https://discord.gg/tA4rrmjPp8).
