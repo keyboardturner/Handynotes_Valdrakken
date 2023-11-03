@@ -1,0 +1,14 @@
+package-as: HandyNotes_Valdrakken
+
+license-output: LICENSE
+
+externals:
+
+ignore:
+  - CHANGELOG.md
+  - README.md
+
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
