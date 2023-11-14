@@ -81,7 +81,7 @@ local notes = {
 	["70"] = "Serene Dreams Spa Floating Island\nRequires flight\nHas NPCs\nLower surrounding area has hostiles",
 	["71"] = "The Roasted Ram\nHas some NPCs\nHas a few beds & seats and a second floor\nA secret area can be accessed by performing '/bow' at the Odd Statue",
 	["72"] = "The Badlands (Uldaman)",
-	["73"] = "Uldum / Nazmir / Tiragarde Sound",
+	["73"] = "Vashj'ir / Gorgrond / Val'sharah / Zuldazar / Drustvar",
 
 }
 
