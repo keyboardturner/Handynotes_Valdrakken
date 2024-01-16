@@ -1,4 +1,4 @@
-## Interface: 100200
+## Interface: 100205
 ## Title: HandyNotes_Valdrakken
 ## Notes: Valdrakken map locations.
 ## IconTexture: Interface/Addons/HandyNotes_Valdrakken/icons/vista.blp
@@ -10,6 +10,7 @@
 ## X-WoWI-ID: 26488
 ## X-Wago-ID: R4N2e9GL
 
+Localization.lua
 Core.lua
 locations.lua
 icons.lua

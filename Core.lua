@@ -1,5 +1,6 @@
 -- declaration
 local _, Valdrakken = ...
+local _, L = ...
 Valdrakken.points = {}
 
 -- db and defaults
