@@ -1,4 +1,4 @@
-## Interface: 110205
+## Interface: 110207
 ## Title: HandyNotes_Valdrakken
 ## Notes: Valdrakken map locations.
 ## IconTexture: Interface/Addons/HandyNotes_Valdrakken/icons/vista.blp
